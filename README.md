@@ -10,7 +10,7 @@ I'm a passionate Frontend Developer specializing in modern web applications with
 
 My focus is on creating clean, performant code and delivering exceptional user experiences. I'm always excited to work on innovative projects and collaborate with fellow developers. 🚀
 
-I'm based in Istanbul, Turkey 🇹🇷. You can reach me at ahmetaligul01@gmail.com
+I am based in Istanbul, Turkey 🇹🇷. You can reach me at ahmetaligul01@gmail.com
 
 
 ![Profile views](https://komarev.com/ghpvc/?username=ahmetaligul01&color=brightgreen&style=flat-square&label=Profile+Views)
